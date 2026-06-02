@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`MyTickets Component snapshot test 1`] = `
+<div>
+  <div
+    class="tickets-page"
+  >
+    <h2
+      class="page-title"
+    >
+      🎟 My Tickets
+    </h2>
+    <div
+      class="empty-state"
+    >
+      <p>
+        No tickets booked yet 🙂
+      </p>
+    </div>
+  </div>
+</div>
+`;
